@@ -1,3 +1,5 @@
+This project is deprecated/obsolete. Please see https://docs.harperdb.io/docs/developers/applications/caching for information and how to use HarperDB's native caching functionality.
+
 # HarperDB Custom Functions API Cache
 
 This HarperDB API Cache Custom Function will relay any API request through a HarperDB, returning a cached version if it has one, or make the origin API call, store, and return the result if it doesn't.
