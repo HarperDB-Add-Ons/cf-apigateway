@@ -1,3 +1,5 @@
+# Deprecated <br>[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+
 This project is deprecated/obsolete. Please see https://docs.harperdb.io/docs/developers/applications/caching for information and how to use HarperDB's native caching functionality.
 
 # HarperDB Custom Functions API Cache
